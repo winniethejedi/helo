@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(99deg, #ff70a6, #ff9770 40%, #ffd670 73%, #e9ff70);
+}
+
+.splash-screen {
+    border-radius: 8px;
+    background-image: linear-gradient(128deg, rgba(64, 61, 57, 0.1), rgba(255, 255, 255, 0.2));
+    box-shadow: 0 14px 28px 0 rgba(0, 0, 0, 0.25), 0 10px 10px 0 rgba (0, 0, 0, 0.26);
+  }
